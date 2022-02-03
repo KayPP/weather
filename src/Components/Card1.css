@@ -1,0 +1,19 @@
+.Card1-container{
+  background: white;
+  width: 29%;
+  padding: 0px 10px 20px 10px;
+  margin: 5px;
+}
+.Card1-image1{
+  display: flex;
+}
+.Card1-image2{
+  display: flex;
+}
+.image-item1{
+  width: 47%;
+  margin: 5px;
+}
+.card1-item-link{
+  text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.Card-container{
+  background: white;
+  width: 280px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px;
+  margin-top: 210px;
+  margin-left: 23px;
+}
+.image-item{
+  width: 280px;
+}
+.card-item-link{
+  text-decoration: none;
+}
